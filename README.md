@@ -1,2 +1,2 @@
 # Text-calculator
-Text calculator in Russian language
+Текстовый калькулятор на русском языке. Работает с числами в пределах +-100.
